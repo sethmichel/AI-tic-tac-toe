@@ -1,2 +1,7 @@
 # AI-tic-tac-toe
-Minimax AI plays tic tac toe against you
+
+Thought I'd through this together in a few hours
+
+Minimax search algorithm (AI) is used for the computer to pick the best spot
+
+Uses the kivy framework for graphics
